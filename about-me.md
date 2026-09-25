@@ -2,8 +2,8 @@
 
 Replace each `___` with your own answer.
 
-- **My name is:** ___
-- **My favourite food is:** ___
-- **My favourite film or game is:** ___
-- **One thing I'm good at:** ___
-- **One thing I'd like to learn:** ___
+- **My name is:Daniel** 
+- **My favourite food is:Pasta**
+- **My favourite film or game is:Succession**
+- **One thing I'm good at:spending money**
+- **One thing I'd like to learn:coding**
